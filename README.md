@@ -4,16 +4,16 @@ Using ```python3 main.py <comands_list_file>```
 
 ```comands_list_file``` example:
 ```
-3 echo "Printed after 3 seconds after starting prgramm"
-1 echo "Printed after 1 second after starting prgramm"
-2 echo "Printed after 2 seconds after starting prgramm"
+3 echo "Printed after 3 seconds after starting prgram"
+1 echo "Printed after 1 second after starting prgram"
+2 echo "Printed after 2 seconds after starting prgram"
 ```
 
 Expected behaviour:
 ```
-Printed after 1 second after starting prgramm
-Printed after 2 seconds after starting prgramm
-Printed after 3 seconds after starting prgramm
+Printed after 1 second after starting prgram
+Printed after 2 seconds after starting prgram
+Printed after 3 seconds after starting prgram
 ```
 ---
 
